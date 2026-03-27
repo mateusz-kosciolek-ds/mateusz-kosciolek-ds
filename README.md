@@ -1,34 +1,18 @@
-## Hi there 👋
+# Hi, I'm Mateusz Kościółek! 👋
 
-<!--
-**mateusz-kosciolek-ds/mateusz-kosciolek-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
+I am a **Data Science** student (3rd semester) at AGH University of Krakow. I am passionate about turning raw data into actionable business insights. Currently, I'm focusing on mastering Python, statistical analysis, and data storytelling.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- **Languages:** Python (Pandas, NumPy), SQL, C++
+- **Tools:** Git & GitHub, Jupyter Notebook, MS Excel
+- **Learning:** Scikit-learn, Web Scraping, Data Visualization (Matplotlib/Seaborn)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Cześć, tu Mateusz Kościółek! 👋
+### 🚀 Goals for 2026
+- [ ] Complete my first End-to-End Data Analysis project
+- [ ] Secure a Summer Internship in Data Analytics / IT
+- [ ] Master the fundamentals of Machine Learning
 
-### 🎓 O mnie
-Jestem studentem **Data Science** (3. semestr) na AGH. Fascynuje mnie przekuwanie surowych danych w konkretne wnioski biznesowe. Obecnie skupiam się na nauce Pythona i analizy statystycznej.
-
-### 🛠️ Technologie, których używam:
-- **Języki:** Python (Pandas, NumPy), SQL, C++
-- **Narzędzia:** Git, Jupyter Notebook, Excel
-- **W trakcie nauki:** Scikit-learn, Web Scraping, Tableau
-
-### 🚀 Moje Cele na 2026:
-- [ ] Zrealizować pierwszy projekt typu End-to-End w Pythonie
-- [ ] Zdobyć staż wakacyjny w obszarze Data/IT
-- [ ] Opanować podstawy uczenia maszynowego
-
-### 📫 Kontakt:
-- **LinkedIn:** www.linkedin.com/in/mateusz-kosciolek
-- **Email:** mateusz.kosciolek.ds@gmail.com
+### 📫 Connect with me:
+- **LinkedIn:** [Mateusz Kościółek](https://www.linkedin.com/in/mateusz-kosciolek/)
+- **Email:** [mateusz.kosciolek.ds@gmail.com]
