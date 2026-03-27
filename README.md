@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Cześć, tu Mateusz Kościółek! 👋
+
+### 🎓 O mnie
+Jestem studentem **Data Science** (3. semestr) na AGH. Fascynuje mnie przekuwanie surowych danych w konkretne wnioski biznesowe. Obecnie skupiam się na nauce Pythona i analizy statystycznej.
+
+### 🛠️ Technologie, których używam:
+- **Języki:** Python (Pandas, NumPy), SQL, C++
+- **Narzędzia:** Git, Jupyter Notebook, Excel
+- **W trakcie nauki:** Scikit-learn, Web Scraping, Tableau
+
+### 🚀 Moje Cele na 2026:
+- [ ] Zrealizować pierwszy projekt typu End-to-End w Pythonie
+- [ ] Zdobyć staż wakacyjny w obszarze Data/IT
+- [ ] Opanować podstawy uczenia maszynowego
+
+### 📫 Kontakt:
+- **LinkedIn:** www.linkedin.com/in/mateusz-kosciolek
+- **Email:** mateusz.kosciolek.ds@gmail.com
